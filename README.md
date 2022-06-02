@@ -1,2 +1,2 @@
 # Gesture-Detection-Object-detection-
-Deep learning algorithm to recognize four different gestures.
+recognize four different gestures using SSD mobilenet(v2)
